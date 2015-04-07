@@ -10,7 +10,7 @@ import java.util.Scanner;
  *	<p>
  *	Generator contains several static methods for generating graphs, 
  *	converting them to DOT format, and displaying them using
- *	Graphviz.
+ *	<a href = "http://www.graphviz.org/"> Graphviz </a>.
  *	</p>
  *
  *	@author Peter Tran
