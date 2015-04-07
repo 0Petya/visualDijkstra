@@ -1,0 +1,4 @@
+digraph G {
+4 -> 0 [weight = 0.1];
+4 -> 2 [weight = 1];
+}
